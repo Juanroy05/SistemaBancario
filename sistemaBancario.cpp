@@ -748,8 +748,6 @@ int main(){
     system("mode con: cols=90 lines=25");
     int navegacion;
 
-    cout<<"hola";
-
     do
     {   
         // Registro de los clientes y cuentas ya guardadas anteriormente por medio de los archivos
