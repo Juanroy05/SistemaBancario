@@ -1478,7 +1478,6 @@ void transferencia(){
                     }
                     
                 }else{
-                    cout<<"\n"<<i<<"\n";
                     cout<<"\nLos datos ingresados no coinciden con cuentas registradas"<<endl;
                     cout<<"Desea ingresar nuevos datos? SI (s) / NO (n): ";
                     cin>>band;
